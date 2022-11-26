@@ -1,0 +1,1 @@
+Opencore for i7-4700 and 4770 laptops (tested on Lenovo y410p) [<= macOS Monterey]
